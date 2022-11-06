@@ -1,0 +1,29 @@
+body {
+  font-family: "PT Serif", serif;
+}
+
+.bg-yellow {
+  background-color: #ffc017;
+}
+.border-bottom-dark {
+  border-bottom: 1px solid rgba(41, 41, 41);
+}
+
+.btn-1 {
+  border: none;
+
+  padding: 5px 40px;
+  cursor: pointer;
+
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+}
+.btn-article {
+  padding: 5px 10px;
+  cursor: pointer;
+
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+}
